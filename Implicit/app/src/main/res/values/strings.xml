@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Implicit</string>
+    <string name="call">Call</string>
+    <string name="btncall">btnCall</string>
+</resources>
